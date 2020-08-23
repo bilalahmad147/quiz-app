@@ -15,7 +15,7 @@ body{
 }
 *{
     box-sizing: border-box;
-    font-family
+    font-family: "Lucida Console", Courier, monospace; 
 }
 `;
 
@@ -49,6 +49,19 @@ h1{
     text-align : center;
     margin: 20px;
     
+}
+
+.start, .next{
+    cursor : pointer;
+    border : 2px solid red;
+    border-radius : 10;
+    height : 40px;
+    margin : 20px 0;
+    padding : 0 40px;
+}
+
+.start{
+    max-width : 2000;
 }
 
 
