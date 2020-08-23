@@ -6,7 +6,7 @@ html{
 }
 
 body{
-    backgroung-image : url(${image});
+    background-image : url(${image});
     background-size : cover;
     margin : 0;
     padding : 0 20px;
