@@ -15,7 +15,7 @@ body{
 }
 *{
     box-sizing: border-box;
-    font-family: "Lucida Console", Courier, monospace; 
+    font-family: "Comic Sans MS", cursive, sans-serif 
 }
 `;
 

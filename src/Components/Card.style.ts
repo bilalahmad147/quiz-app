@@ -3,9 +3,9 @@ import styled from "styled-components";
 export const Wrapper = styled.div`
 
     max-width: 1100px;
-    background : #ebfeff;
+    background : #a3d2ca;
     border-radius: 10px;
-    border: 2px solid red;
+    border: 2px solid #056676;
     padding: 20px;
     box-shadow: 0px 5px 10px rgba(0,0,0,0.25);
     text-align : center;
@@ -44,10 +44,10 @@ export const ButtonWrapper = styled.div<ButttonWrapperProps>`
             ? 'linear-gradient(90deg, #ff5656, #c16868)'
             : 'linear-gradient(90deg, #56ccff, #6eafb4)'};
 
-        border : 3px solid red;
+        border : 3px solid #056676;
         box-shadow : 1px 2px 0px rgba(0,0,0,0.1);
         border-radius : 10px;
-        color : #fff;
+        color : black;
         text-shadow: 0px 1px 0px rgba(0,0,0,0.25)
     }
 
